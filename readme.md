@@ -1,4 +1,4 @@
-This is a modern, portable fork of Aaron Ericksons metalinq project, available on [CodePlex](https://metalinq.codeplex.com) 
+This is a fork targeting .Net Standard of a modern, portable fork of Aaron Ericksons metalinq project, available on [CodePlex](https://metalinq.codeplex.com) 
 
 He has a [blogpost introducing it](http://nomadic-developer.com/2007/05/24/announcing-metalinq-linq-to-expressions/), which I have paraphrased below:
 
